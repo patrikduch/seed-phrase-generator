@@ -631,7 +631,7 @@ to attach them to the start of each source file to most effectively
 state the exclusion of warranty; and each file should have at least
 the "copyright" line and a pointer to where the full notice is found.
 
-    seed-phrase-generator 1.0 - A simple tool to generate cryptographic seed phrases for wallet recovery and authentication. Supports customizable word lists, entropy levels, and BIP-39 standard.
+    seed-phrase-generator 1.0.0 A simple tool to generate cryptographic seed phrases for wallet recovery and authentication. Supports customizable word lists, entropy levels, and BIP-39 standard.
     Copyright (C) Patrik Duch, IČ: 09225471
 
     This program is free software: you can redistribute it and/or modify
