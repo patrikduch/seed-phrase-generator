@@ -1,0 +1,42 @@
+# Ignore compiled binaries and intermediate files
+target/
+debug/
+release/
+
+# Ignore Cargo lock file (if you are building a library)
+Cargo.lock
+
+# Ignore IDE/editor-specific files
+.idea/
+.vscode/
+*.iml
+
+# Ignore Rust/Cargo-specific cache files
+**/target/
+**/Cargo.lock
+**/*.rs.bk
+
+# Ignore build artifacts
+*.rlib
+*.rmeta
+*.dSYM/
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+*.swp
+*.swo
+*.bak
+
+# Ignore Rust test coverage files
+.coverage/
+lcov.info
+
+# Ignore system files
+.DS_Store
+Thumbs.db
